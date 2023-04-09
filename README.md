@@ -1,1 +1,1 @@
-
+Django rest api assignment
